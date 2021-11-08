@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RUN_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.run.xsd">
+ <RUN alias="UPSC-0110-R0001" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/0w-abi1_1_GGCTAC_L006_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="34371d6c561976877aee60e234e8c2c3"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0002" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0002"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/0w-abi1_2_CTTGTA_L006_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="85c4cf582f8efa8694af8fc272bedb85"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0003" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0003"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/0w-abi1_3_ACTGAT_L006_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="e00173aeff2902ae39ea4d3fc900358e"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0004" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0004"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/0w-t89_1_CGATGT_L006_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="9dfc9398afa6e1daac132bf09676a9ea"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0005" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/0w-t89_2_CAGATC_L006_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="05eae983593028d0dc7941fd30d60626"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0006" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0006"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/0w-t89_2_CAGATC_L008_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="d38110a9442a84704076d304a2c9c498"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0007" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0007"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/0w-t89_3_TAGCTT_L006_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="df20e8f92576ee057c6408e88c806949"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0008" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0008"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/6w-abi1_1_CGTACG_L007_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="96827b51acb0ac389de51f809d80adea"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0009" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0009"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/6w-abi1_2_GAGTGG_L007_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="01fe72a0749f987b03b870f8228e3a46"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0010" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0010"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/6w-abi1_3_ATTCCT_L007_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="40c0b3bced6c922ceae9280294c9da74"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0011" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0011"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/6w-t89_1_GCCAAT_L007_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="ce175d2e4b2c4c6490f8da4b56e6e42b"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0012" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0012"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/6w-t89_2_GTCCGC_L007_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="dbee88cf35af18fe3552aa42afaa8a41"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0013" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0013"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/6w-t89_3_GTGGCC_L007_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="32d70c029884b135f3d45c2b4ee20751"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0014" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0014"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/10w-abi1_1_GATCAG_L008_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="2d5a8dde62e8026e8a2d30ee8ed8a688"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0015" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0015"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/10w-abi1_2_AGTCAA_L008_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="86ba93bfe77c6b69bd77c72cc08dfde8"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0016" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0016"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/10w-abi1_3_GTTTCG_L008_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="23afd7257e680678eb9d111e5e14a1e2"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0017" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0017"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/10w-t89_1_TTAGGC_L007_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="e62bd6862af883b80693305933d22a3d"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0018" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0018"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/10w-t89_1_TTAGGC_L008_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="ecc140e31d41e2ef259edfa409e0e9a1"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0019" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0019"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/10w-t89_2_TGACCA_L008_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="81289e00912ff398160f827dcc34eb55"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0110-R0020" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-01-01T10:00:00">
+  <EXPERIMENT_REF refname="UPSC-0110-E0020"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0110/10w-t89_3_ACTTGA_L008_R1_001.fastq.gz" filetype="fastq" checksum_method="MD5" checksum="b0cc2e47e9314341aaf7b13ab9a74bd1"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+</RUN_SET>

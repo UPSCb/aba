@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2017-10-17T18:21:34.243+01:00" submissionFile="UPSC-0110.Submission.xml" success="true">
+     <EXPERIMENT accession="ERX2233258" alias="UPSC-0110-E0001" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233259" alias="UPSC-0110-E0002" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233260" alias="UPSC-0110-E0003" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233261" alias="UPSC-0110-E0004" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233262" alias="UPSC-0110-E0005" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233263" alias="UPSC-0110-E0006" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233264" alias="UPSC-0110-E0007" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233265" alias="UPSC-0110-E0008" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233266" alias="UPSC-0110-E0009" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233267" alias="UPSC-0110-E0010" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233268" alias="UPSC-0110-E0011" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233269" alias="UPSC-0110-E0012" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233270" alias="UPSC-0110-E0013" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233271" alias="UPSC-0110-E0014" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233272" alias="UPSC-0110-E0015" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233273" alias="UPSC-0110-E0016" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233274" alias="UPSC-0110-E0017" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233275" alias="UPSC-0110-E0018" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233276" alias="UPSC-0110-E0019" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2233277" alias="UPSC-0110-E0020" status="PRIVATE"/>
+     <RUN accession="ERR2176895" alias="UPSC-0110-R0001" status="PRIVATE"/>
+     <RUN accession="ERR2176896" alias="UPSC-0110-R0002" status="PRIVATE"/>
+     <RUN accession="ERR2176897" alias="UPSC-0110-R0003" status="PRIVATE"/>
+     <RUN accession="ERR2176898" alias="UPSC-0110-R0004" status="PRIVATE"/>
+     <RUN accession="ERR2176899" alias="UPSC-0110-R0005" status="PRIVATE"/>
+     <RUN accession="ERR2176900" alias="UPSC-0110-R0006" status="PRIVATE"/>
+     <RUN accession="ERR2176901" alias="UPSC-0110-R0007" status="PRIVATE"/>
+     <RUN accession="ERR2176902" alias="UPSC-0110-R0008" status="PRIVATE"/>
+     <RUN accession="ERR2176903" alias="UPSC-0110-R0009" status="PRIVATE"/>
+     <RUN accession="ERR2176904" alias="UPSC-0110-R0010" status="PRIVATE"/>
+     <RUN accession="ERR2176905" alias="UPSC-0110-R0011" status="PRIVATE"/>
+     <RUN accession="ERR2176906" alias="UPSC-0110-R0012" status="PRIVATE"/>
+     <RUN accession="ERR2176907" alias="UPSC-0110-R0013" status="PRIVATE"/>
+     <RUN accession="ERR2176908" alias="UPSC-0110-R0014" status="PRIVATE"/>
+     <RUN accession="ERR2176909" alias="UPSC-0110-R0015" status="PRIVATE"/>
+     <RUN accession="ERR2176910" alias="UPSC-0110-R0016" status="PRIVATE"/>
+     <RUN accession="ERR2176911" alias="UPSC-0110-R0017" status="PRIVATE"/>
+     <RUN accession="ERR2176912" alias="UPSC-0110-R0018" status="PRIVATE"/>
+     <RUN accession="ERR2176913" alias="UPSC-0110-R0019" status="PRIVATE"/>
+     <RUN accession="ERR2176914" alias="UPSC-0110-R0020" status="PRIVATE"/>
+     <SAMPLE accession="ERS1978902" alias="UPSC-0110-S0001" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353924" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978903" alias="UPSC-0110-S0002" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353925" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978904" alias="UPSC-0110-S0003" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353926" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978905" alias="UPSC-0110-S0004" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353927" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978906" alias="UPSC-0110-S0005" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353928" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978907" alias="UPSC-0110-S0006" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353929" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978908" alias="UPSC-0110-S0007" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353930" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978909" alias="UPSC-0110-S0008" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353931" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978910" alias="UPSC-0110-S0009" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353932" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978911" alias="UPSC-0110-S0010" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353933" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978912" alias="UPSC-0110-S0011" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353934" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978913" alias="UPSC-0110-S0012" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353935" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978914" alias="UPSC-0110-S0013" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353936" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978915" alias="UPSC-0110-S0014" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353937" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978916" alias="UPSC-0110-S0015" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353938" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978917" alias="UPSC-0110-S0016" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353939" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978918" alias="UPSC-0110-S0017" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353940" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978919" alias="UPSC-0110-S0018" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353941" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978920" alias="UPSC-0110-S0019" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353942" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1978921" alias="UPSC-0110-S0020" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="SAMEA104353943" type="biosample"/>
+     </SAMPLE>
+     <STUDY accession="ERP104807" alias="UPSC-0110" status="PRIVATE" holdUntilDate="2019-10-09+01:00">
+          <EXT_ID accession="PRJEB23073" type="Project"/>
+     </STUDY>
+     <SUBMISSION accession="ERA1119409" alias="UPSC-0110"/>
+     <MESSAGES>
+          <INFO>All objects in this submission are set to private status (HOLD).</INFO>
+          <INFO>Submission has been committed.</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>HOLD</ACTIONS>
+</RECEIPT>

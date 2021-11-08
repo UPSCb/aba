@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.sample.xsd">
+ <SAMPLE alias="UPSC-0110-S0001" center_name="UPSC">
+  <TITLE>0w-abi1_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>abi1 mutant after 0 weeks of short day treatment biological replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0002" center_name="UPSC">
+  <TITLE>0w-abi1_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>abi1 mutant after 0 weeks of short day treatment biological replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0003" center_name="UPSC">
+  <TITLE>0w-abi1_3</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>abi1 mutant after 0 weeks of short day treatment biological replicate 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0004" center_name="UPSC">
+  <TITLE>0w-t89_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 after 0 weeks of short day treatment biological replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0005" center_name="UPSC">
+  <TITLE>0w-t89_2.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 after 0 weeks of short day treatment biological replicate 2 technical replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0006" center_name="UPSC">
+  <TITLE>0w-t89_2.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 after 0 weeks of short day treatment biological replicate 2 technical replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0007" center_name="UPSC">
+  <TITLE>0w-t89_3</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 after 0 weeks of short day treatment biological replicate 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0008" center_name="UPSC">
+  <TITLE>6w-abi1_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>abi1 mutant after 6 weeks of short day treatment biological replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0009" center_name="UPSC">
+  <TITLE>6w-abi1_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>abi1 mutant after 6 weeks of short day treatment biological replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0010" center_name="UPSC">
+  <TITLE>6w-abi1_3</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>abi1 mutant after 6 weeks of short day treatment biological replicate 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0011" center_name="UPSC">
+  <TITLE>6w-t89_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 after 6 weeks of short day treatment biological replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0012" center_name="UPSC">
+  <TITLE>6w-t89_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 after 6 weeks of short day treatment biological replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0013" center_name="UPSC">
+  <TITLE>6w-t89_3</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 after 6 weeks of short day treatment biological replicate 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0014" center_name="UPSC">
+  <TITLE>10w-abi1_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>abi1 mutant after 10 weeks of short day treatment biological replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0015" center_name="UPSC">
+  <TITLE>10w-abi1_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>abi1 mutant after 10 weeks of short day treatment biological replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0016" center_name="UPSC">
+  <TITLE>10w-abi1_3</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>abi1 mutant after 10 weeks of short day treatment biological replicate 3</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0017" center_name="UPSC">
+  <TITLE>10w-t89_1.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 after 10 weeks of short day treatment biological replicate 1 technical replicate 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0018" center_name="UPSC">
+  <TITLE>10w-t89_1.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 after 10 weeks of short day treatment biological replicate 1 technical replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0019" center_name="UPSC">
+  <TITLE>10w-t89_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 after 10 weeks of short day treatment biological replicate 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0110-S0020" center_name="UPSC">
+  <TITLE>10w-t89_3</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>47664</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula x Populus tremuloides</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus tremula x Populus tremuloides</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>T89 after 10 weeks of short day treatment biological replicate 3</DESCRIPTION>
+ </SAMPLE>
+</SAMPLE_SET>

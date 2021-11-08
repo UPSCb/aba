@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STUDY_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.study.xsd">
+ <STUDY alias="UPSC-0110" center_name="UPSC">
+  <DESCRIPTOR>
+   <STUDY_TITLE>SE Illumina RNA-sequencing of ABA insensitive hybrid aspen</STUDY_TITLE>
+   <STUDY_TYPE existing_study_type="RNASeq"/>
+   <STUDY_ABSTRACT>ABA is a major regulator of dormancy. To understand the role of ABA in dormancy regulation, we generated ABA insensitive hybrid aspen plants. Control wild type and abi1-1 plants were subject to 0, 6 and 10 weeks of short days and apices were collected. RNA was isolated from these and RNA was subjected to RNAseq and gene expression changes were analysed at 0-6 and 6 -10 weeks in the wild type and then these genes were analysed for their expression in abi1-1 plants.</STUDY_ABSTRACT>
+  </DESCRIPTOR>
+ </STUDY>
+</STUDY_SET>
